@@ -33,9 +33,35 @@ These projects are designed to practice and improve core programming concepts in
 
 ---
 
-## 🚀 How to Use this Code
+## ⚙️ How to Run the Code
 
-### 1️⃣ Clone this Repository
-```bash
-git clone https://github.com/sarthakb1702/Learning.git
-cd Learning
+### 1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/Basic-C-programs.git
+   cd Basic-C-programs
+   ```
+### 2. Compile and run any .c file using GCC:
+   ```bash
+   gcc filename.c -o output
+   ./output
+   ```
+  🔁 Replace filename.c with your actual file name.
+  
+
+## 💡 Who is this for?
+This repo is perfect for:
+
+Beginners learning Python language
+
+Students practicing for exams or interviews
+
+Anyone wanting to revisit Python fundamentals through hands-on code
+
+
+## 📌 Note
+
+The games require the random function for randomness.
+
+
+## 🙌 Contributions
+Feel free to fork, improve, or suggest more beginner-level Python programs!
