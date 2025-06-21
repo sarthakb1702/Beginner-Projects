@@ -9,28 +9,33 @@ These projects are designed to practice and improve core programming concepts in
 
 | Filename | Description |
 |----------|-------------|
+| `calculator.py` | A basic calculator performing arithmetic operations (+, -, *, /) |
 | `cel_to_fah.py` | Converts temperature from Celsius to Fahrenheit |
 | `complex_operations.py` | Performs arithmetic operations on complex numbers |
 | `greatest_num.py` | Finds the greatest of three numbers entered by the user |
 | `inheritance.py` | Demonstrates basic single inheritance in OOP |
 | `multilevel_inheritance.py` | Example of multilevel inheritance using classes |
 | `multiple_inheritance.py` | Demonstrates multiple inheritance with two base classes |
-| `random_no_guess.py` | A number guessing game where the user guesses a random number in least attempts , person having least attempts wins |
+| `qna_dict.py` | Dictionary of questions and answers used in the quiz game |
+| `quiz_game.py` | A beginner quiz game that asks random questions from `qna_dict.py` |
+| `random_no_guess.py` | A number guessing game where the user guesses a random number in least attempts, person having least attempts wins |
+| `random_num_highscore.py` | Number guessing game with highscore tracking |
 | `rock_paper_scissors.py` | Classic Rock, Paper, Scissors game against the computer |
 | `star_pattern_1.py` | Prints a square pattern using stars |
 | `star_pattern_2.py` | Prints a pyramid pattern using stars |
-| `star_pattern_3.py` | Prints a upper triangular matrix pattern using stars |
+| `star_pattern_3.py` | Prints an upper triangular matrix pattern using stars |
 | `star_pattern_4.py` | Prints a lower triangular matrix star pattern |
-| `table_file.py` | Generates multiplication tables from 2 to 20 and saves them in a different files |
+| `table_file.py` | Generates multiplication tables from 2 to 20 and saves them in different files |
+| `to_do_list.py` | A command-line To-Do List app with features to add, edit, delete, view, and clear tasks, with each task saved in a text file along with a timestamp |
+| `to_do_list.txt` | Data file used by `to_do_list.py` to store tasks |
 | `train_info.py` | Stores and displays train information using basic data structures |
 | `vector_operations.py` | Performs basic vector operations (addition, dot product, etc.) |
-| `to_do_list.py` | A command-line To-Do List app with features to add, edit, delete, view, and clear tasks, with each task saved in a text file along with a timestamp |
 
 ---
 
-## 🚀 How to Use this codes
+## 🚀 How to Use this Code
 
-### 1. Clone this Repository
+### 1️⃣ Clone this Repository
 ```bash
 git clone https://github.com/sarthakb1702/Learning.git
 cd Learning
